@@ -1,3 +1,3 @@
 # GeradordeSenhas
 
-<p>Treinando Javascript></p>
+<p>Treinando Javascript</p>
